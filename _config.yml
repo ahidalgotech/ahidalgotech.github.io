@@ -100,7 +100,7 @@ analytics:
 
 
 # Site Author
-author:
+  author           : "HenkoSec"
   name             : "HenkoSec"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>Blue Team Student</br>

@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "HenkoSec"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
+  bio              : "Pentester, CTF player<br>Blue Team Student</br>
   location         : "Spain"
   email            : "contacto@ahidalgo.tech"
   uri              :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "ahidalgotech"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : # "snowscan"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)

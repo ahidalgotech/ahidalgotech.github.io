@@ -100,7 +100,7 @@ analytics:
 
 
 # Site Author
-  #author           : "HenkoSec"
+ author           : 
   name             : "HenkoSec"
   avatar           : "/assets/images/avatar.png"
   bio              : "Pentester, CTF player<br>Blue Team Student</br>
@@ -118,7 +118,7 @@ analytics:
   gitlab           :
   google_plus      :
   keybase          : # "snowscan"
-  instagram        :
+  instagram        :  henkosec
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :

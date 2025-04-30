@@ -5,7 +5,7 @@ excerpt: "Hacking"
 date: 2021-05-22
 classes: wide
 header:
-  teaser: /assets/images/dockerlabs_image_verdejo.png
+  teaser: /assets/images/Dockerlabs-Verdejo/labbar.png
   teaser_home_page: true
   icon: /assets/images/dockerlabs_icon.png
 categories:

@@ -5,6 +5,8 @@ date: 2025-05-01
 classes: wide
 header:
   teaser: /assets/images/Dockerlabs-Findme/findme.png
+  teaser_home_page: true
+  icon: /assets/images/dockerlabs_icon.png
 categories:
   - TheHackersLabs
   - Easy

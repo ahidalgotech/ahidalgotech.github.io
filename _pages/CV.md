@@ -52,27 +52,6 @@ author_profile: true
     text-align: center;
   }
 
-  /* Estilos para foto tipo CV */
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 30px;
-  }
-
-  .intro-text {
-    flex: 1;
-  }
-
-  .photo img {
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
-    border-radius: 12px; /* Usa 50% si prefieres circular */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  }
 </style>
 
 </head>
@@ -80,10 +59,6 @@ author_profile: true
   <div class="container">
     <h1>Profile</h1>
     <p>Hello, my name is <strong>Alberto Hidalgo Moreno</strong>. I am currently a cybersecurity student based in Spain. While pursuing my studies, I am also dedicated to creating content aimed at raising awareness and sharing knowledge about cybersecurity.</p>
-
-    <div class="photo">
-      <img src="/assets/images/cvicon.jpg" alt="Alberto CV Photo">
-    </div>
   </div>
     <h2>Education</h1>
     <p>I currently hold the <strong>eJPTv2</strong> certification from INE Security and the <strong>BTL1</strong> certification from Security Blue Team. I am pursuing a <strong>Higher National Diploma in Network and Systems Administration</strong>, and I am also preparing for the <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong> certification.</p>

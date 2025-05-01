@@ -4,7 +4,7 @@ title: Find me - The Hackers Labs Write up
 date: 2025-05-01
 classes: wide
 header:
-  teaser: /images/Dockerlabs-Findme/findme.png
+  teaser: /assets/images/Dockerlabs-Findme/findme.png
 categories:
   - TheHackersLabs
   - Easy
@@ -16,7 +16,7 @@ tags:
 # Find Me - Write Up
 ---------------
 
-![](/assets/images/Dockerlabs-Findme/findme.png)
+![]({{ "/assets/images/Dockerlabs-Findme/findme.png" | relative_url }})
 
 
 ## Portscan

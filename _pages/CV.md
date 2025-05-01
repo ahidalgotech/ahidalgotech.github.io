@@ -6,7 +6,8 @@ author_profile: true
 
 # Profile
 
-Hello, my name is **Alberto Hidalgo Moreno.** I am currently a cybersecurity student based in Spain. While pursuing my studies, I am also dedicated to creating content aimed at raising awareness and sharing knowledge about cybersecurity.
+Hello, my name is **Alberto Hidalgo Moreno.** I am currently a cybersecurity student based in Spain. <br>
+ While pursuing my studies, I am also dedicated to creating content aimed at raising awareness and sharing knowledge about cybersecurity.</br>
 
 # Education
 

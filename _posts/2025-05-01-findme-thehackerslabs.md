@@ -6,7 +6,7 @@ classes: wide
 header:
   teaser: /assets/images/Dockerlabs-Findme/findme.png
   teaser_home_page: true
-  icon: /assets/images/dockerlabs_icon.png
+  icon: /assets/images/thlicon.png
 categories:
   - TheHackersLabs
   - Easy

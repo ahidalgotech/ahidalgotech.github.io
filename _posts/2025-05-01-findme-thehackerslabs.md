@@ -4,7 +4,7 @@ title: Find me - The Hackers Labs Write up
 date: 2025-05-01
 classes: wide
 header:
-  teaser: /assets/images/findme.png
+  teaser: /assets/images/imagenfindme.jpg
   teaser_home_page: true
   icon: /assets/images/thlicon.png
 categories:

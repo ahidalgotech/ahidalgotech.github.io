@@ -4,9 +4,9 @@ title: Find me - The Hackers Labs Write up
 date: 2025-05-01
 classes: wide
 header:
-  teaser: /assets/images/Dockerlabs-Findme/findme.png
+  teaser: /assets/images/Dockerlabs-Verdejo/labbar.png
   teaser_home_page: true
-  icon: /assets/images/thlicon.png
+  icon: /assets/images/dockerlabs_icon.png
 categories:
   - TheHackersLabs
   - Easy

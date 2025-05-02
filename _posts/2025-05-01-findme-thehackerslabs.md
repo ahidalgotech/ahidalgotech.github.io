@@ -51,7 +51,6 @@ Ahora vamos a realizar un escaneo nuevamente con *nmap* para descubir que *servi
 
 ```
 nmap -p21,22,80,8080 -sCV 192.168.1.146
-
 ```
 
 <img src="/assets/images/Thehackerslabs-Findme/3.png" alt="Texto alternativo" width="400" />
@@ -61,6 +60,9 @@ Asique antes de nada vamos a echar un ojo por ahí a ver que nos encontramos.
 
 ```
 ftp 192.168.1.146 # Ip de la máquina víctima.
-
 ```
+<img src="/assets/images/Thehackerslabs-Findme/4.png" alt="Texto alternativo" width="400" />
+
+Una vez dentro, si hacemos un **ls** nos percatamos de que hay un archivito**ayuda.txt**
+asique con el comando ```get ayuda.txt``` nos vamos a traer a nuestra máquina local para poder listar su contenido.
 

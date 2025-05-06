@@ -5,7 +5,7 @@ excerpt: "Hacking"
 date: 2021-05-22
 classes: wide
 header:
-  teaser: /assets/images/Dockerlabs-Verdejo/labbar.png
+  teaser: /assets/images/Dockerlabs-Verdejo/dockerlabs_image_verdejo.png
   teaser_home_page: true
   icon: /assets/images/dockerlabs_icon.png
 categories:
@@ -22,7 +22,7 @@ encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></ifr
 -------------
 # Escaneo y Reconocimiento de puertos
 
-Una vez tengamos la máquina desplegada lo primero que haremos será lanzarle un *ping* para comprobar que la podemos detectar bien y no hay ningun problema, esto lo haremos con el comando:
+Una vez tengamos la máquina desplegada lo primero que haremos será lanzarle un *ping* para comprobar que la podemos detectar bien y no hay ningun problema, esto lo haremos con el siguiente comando:
 
 `ping -c 1 172.17.0.2` 
 

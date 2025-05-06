@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "HenkoSec"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Pentester, CTF player<br>Blue Team Student</br>"
   location         : "Spain"
   email            : "contacto@ahidalgo.tech"
